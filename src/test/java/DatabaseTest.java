@@ -43,6 +43,7 @@ class DatabaseTest {
         int actualSize = results.size();
 
         //Assert
+        assertEquals(database.Superhero);
 
     }
 
